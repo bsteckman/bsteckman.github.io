@@ -311,7 +311,8 @@ a:focus {
 }
 
 .btn-default:hover,
-.btn-default:focus {
+.btn-default:focus,
+.btn-default:active {
     border: 1px solid yellowgreen;
     outline: 0;
     color: #000;
