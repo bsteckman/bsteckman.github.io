@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+    
+    
+}
+#work-history {
+
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    margin-left: 100px;
+    margin-right: 100px;
+    min-height: 200px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    
+    }
+
+
+.mydashbackground {background-color: black}
+
+
+#return {
+    text-align: center;
+
+}
+
+.btn {
+    border-radius: 0;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    border: 1px solid yellowgreen;
+    color: yellowgreen;
+    background-color: black;
+}
+
+.btn:hover,
+.btn:focus,
+.btn:active {
+    border: 1px solid greenyellow;
+    outline: 0;
+    color: #000;
+    background-color: greenyellow;
+}
+
+#pagetitle {
+    text-align:  center;
+    color: yellowgreen
+   
+}
+
+.green {
+    color: yellowgreen;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+
