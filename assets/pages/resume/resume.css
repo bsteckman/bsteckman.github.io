@@ -61,7 +61,7 @@ ul {
 #sidebar{
     background-color: yellowgreen;
     border-right: 5px black dashed;
-    min-height:    175%;
+    min-height:    200%;
             
 }
 
@@ -69,7 +69,7 @@ ul {
 .container-fluid{background: black;}
 
 #empty{
-    min-height:  175%;
+    min-height:  200%;
     background-color: greenyellow;
     border-left: 5px black dashed
 }
