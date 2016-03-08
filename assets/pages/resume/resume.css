@@ -59,7 +59,7 @@ ul {
 
 #sidebar{
     background-color: yellowgreen;
-    border-right: 5px yellowgreen;
+    border-right: 5px dashed black;
     height: 100%;
     position: fixed;
     left: 0;
@@ -69,8 +69,8 @@ ul {
 .container-fluid{background: black;}
 
 #empty{
-    background-color: greenyellow;
-    border-left: 5px greenyellow;
+    background-color: yellowgreen;
+    border-left: 5px dashed black;
     height:100%;
     position: fixed;
     right: 0
