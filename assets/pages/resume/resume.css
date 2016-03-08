@@ -1,7 +1,5 @@
-body{
-    background: black;
-    
-    
+html, body{
+    background: black;    
 }
 #work-history {
 
@@ -9,7 +7,6 @@ body{
     font-weight: 400;
     background-color: black;
     color: #fff;    
-    max-height: 100%
     }
 
 
@@ -33,7 +30,7 @@ body{
     color: yellowgreen;
     background-color: black;
     margin-top: 50px;
-    margin-left: 15px;
+    margin-left: 12px;
 }
 
 .btn:hover,
@@ -63,15 +60,25 @@ ul {
 #sidebar{
     background-color: yellowgreen;
     border-right: 5px black dashed;
-    min-height:    100%;
-            
+    height: 100%;
+    position: fixed;
+    left: 0;
 }
 
 
 .container-fluid{background: black;}
 
 #empty{
-    min-height:  100%;
     background-color: greenyellow;
-    border-left: 5px black dashed
+    border-left: 5px black dashed;
+    height:100%;
+    position: fixed;
+    right: 0
+
+}
+
+#content{
+    position:relative;
+    height: 100%;
+   
 }
