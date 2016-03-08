@@ -59,7 +59,7 @@ ul {
 
 #sidebar{
     background-color: yellowgreen;
-    border-right: 6px black dashed;
+    border-right: 5px yellowgreen;
     height: 100%;
     position: fixed;
     left: 0;
@@ -70,7 +70,7 @@ ul {
 
 #empty{
     background-color: greenyellow;
-    border-left: 5px black dashed;
+    border-left: 5px greenyellow;
     height:100%;
     position: fixed;
     right: 0
