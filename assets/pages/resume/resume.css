@@ -78,7 +78,7 @@ ul {
 }
 
 #content{
-    position:relative;
+    position:absolute;
     height: 100%;
    
 }
