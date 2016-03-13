@@ -1,16 +1,11 @@
 app.config(function($stateProvider, $urlRouterProvider){
     
-    $urlRouterProvider.otherwise('/landing');
+    $urlRouterProvider.otherwise('/');
     
     $stateProvider
-      .state('landing', {
-         url: '/landing',
-         templateUrl: 'index.html',
-      
-      })
-      .state('resume', {
+         .state('resume', {
          url: '/resume',
-         templateUrl: "assetts/resume/resume.html",
+         templateUrl: "assets/pages/resume/resume.html",
  
       })
       
