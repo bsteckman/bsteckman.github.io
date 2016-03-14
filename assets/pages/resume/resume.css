@@ -46,12 +46,7 @@ html, body{
     background-color: greenyellow;
 }
 
-#page-title {
-    color: yellowgreen;
-    padding: 5px;
-    ;
-   
-}
+
 
 .green {
     color: yellowgreen;
@@ -59,34 +54,33 @@ html, body{
 ul {
     list-style-type: disc;
     
+    
 }
 
-#sidebar{
-    background-color: yellowgreen;
-    border-right: 5px dashed black;
-    height: 100%;
-    position: fixed;
-    left: 0;
-}
-
-
-.container-fluid{background: black;}
-
-#empty{
-    background-color: yellowgreen;
-    border-left: 5px dashed black;
-    height:100%;
-    position: fixed;
-    right: 0
-
-}
-
-#content{
-    position:absolute;
-    height: 100%;
-   
-}
 
 #page-top{
     background: black;
+}
+
+.panel-body{
+    background: black;
+}
+
+.panel-heading{
+    background-color: yellowgreen !important;
+    color: black !important;
+    text-align: center;
+    border-bottom: yellowgreen !important;
+    ;
+}
+
+.panel{
+    background-color: black !important;
+    border: 2px solid yellowgreen !important;
+}
+
+li{
+    border: 2px solid yellowgreen;
+    margin: 5px;
+    padding:5px;
 }
