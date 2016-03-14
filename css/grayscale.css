@@ -381,8 +381,9 @@ body {
     color: yellowgreen;
 }
 
-.item{
+#carImage{
     height: 400px;
+    width: 750px;
 }
 
 #arrow{
