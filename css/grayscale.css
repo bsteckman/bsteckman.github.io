@@ -384,3 +384,7 @@ body {
 .item{
     height: 400px;
 }
+
+#arrow{
+    color: yellowgreen;
+}
