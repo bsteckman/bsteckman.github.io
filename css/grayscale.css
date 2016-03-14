@@ -385,14 +385,6 @@ body {
     height: 400px;
 }
 
-
-.carousel-indicators {
-    bottom:-25px;
-}
-.carousel-inner {
-   margin-bottom:25px;
-}
-
 #arrow{
     color: yellowgreen;
 }
